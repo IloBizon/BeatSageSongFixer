@@ -7,3 +7,6 @@ To use
 1. Copy the path to the BeatSaber game on your PC (Levels should be stored under Beat Saber_Data\CustomLevels).
 2. Open the utility and paste the previously copied path into the input field
 3. Done! All maps are working well!
+
+
+I'm a small indie game developer, if you don't mind you can support me on https://ilobizon.itch.io/
